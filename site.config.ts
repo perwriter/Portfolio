@@ -7,19 +7,19 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Islem Maboud Portfolio',
-  domain: 'islemmaboud.dev',
-  author: 'Islem Maboud',
+  name: 'Peter Macharia',
+  domain: 'perwriters.dev',
+  author: 'Peter Macharia',
 
   // open graph metadata (optional)
-  description: 'Elegant Portfolio',
-  socialImageTitle: 'Islem Maboud Aka CoderOne',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: 'Portfolio',
+  socialImageTitle: 'Peter Aka perwriterIslem Maboud Aka CoderOne',
+  socialImageSubtitle: 'Hello There! 👋',
 
   // social usernames (optional)
-  twitter: 'ipenywis',
-  github: 'ipenywis',
-  linkedin: 'islem-maboud',
+  twitter: 'petermasharia',
+  github: 'perwriter',
+  linkedin: 'peter-macharia-90a715187',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
